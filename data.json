@@ -1,5 +1,5 @@
 {
-	"total" : "1493",
+	"total" : "1495",
 	"onsite": {
 		"donut" : "60",
 		"real" : "984"
@@ -22,6 +22,6 @@
 	"ecpm_mom" : "7",
 	"optimizations" : "96",
 	"optimizations_mom" : "4",
-	"viewability" : "62",
+	"viewability" : "77",
 	"viewability_mom" : "5"
 }
