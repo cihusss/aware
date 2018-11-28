@@ -1,14 +1,11 @@
 {
-	{
-		"name":"onsite", 
-        "value": "54"
-    },
-    {
-    	"name":"offsite",
-        "value": "22"
-    },
-    {
-    	"name":"social", 
-        "value": "24"
-    }
+	"onsite": {
+		"value": "60"
+	},
+	"offsite": {
+		"value": "27"
+	},
+	"social": {
+		"value": "23"
+	}
 }
