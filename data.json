@@ -1,0 +1,27 @@
+{
+	"total" : "1493",
+	"onsite": {
+		"donut" : "60",
+		"real" : "984"
+	},
+	"offsite": {
+		"donut" : "27",
+		"real" : "277"
+	},
+	"social": {
+		"donut" : "23",
+		"real" : "233"
+	},
+	"underdelivery" : "0.23",
+	"underdelivery_mom" : "-9",
+	"cpc" : "4.25",
+	"cpc_mom" : "3",
+	"margin" : "44",
+	"margin_mom" : "7",
+	"ecpm" : "4.11",
+	"ecpm_mom" : "7",
+	"optimizations" : "96",
+	"optimizations_mom" : "4",
+	"viewability" : "62",
+	"viewability_mom" : "5"
+}
